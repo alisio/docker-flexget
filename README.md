@@ -28,4 +28,13 @@ transmission:
 
 # Reference
 
-[Flexget Cookbook](https://flexget.com/Cookbook)
+* [Flexget Cookbook](https://flexget.com/Cookbook)
+* [Transmission](https://transmissionbt.com/)
+* [transmission-rpc](https://pypi.org/project/transmission-rpc/)
+
+
+# Author
+
+Antonio Alisio de Meneses Cordeiro - alisio.meneses@gmail.com
+
+
